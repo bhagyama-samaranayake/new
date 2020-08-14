@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Inquiry</string>
+    <item name="bt_send" type="id"/>
+</resources>
