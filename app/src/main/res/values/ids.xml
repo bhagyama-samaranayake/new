@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item name="et_subject" type="id"/>
-    <item name="et_message" type="id"/>
-    <item name="et_name" type="id"/>
-
-
-</resources>
