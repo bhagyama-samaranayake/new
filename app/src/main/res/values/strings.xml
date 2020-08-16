@@ -4,4 +4,12 @@
     <item name="et_message" type="id"/>
     <item name="et_name" type="id"/>
     <item name="bt_send" type="id"/>
+    <string name="Inquiry_page">Inquiry</string>
+    <string name="user_input_name">Name</string>
+    <string name="user_input_email">Email</string>
+    <string name="user_input_inquiry">Inquiry</string>
+    <string name="Confirm_button">confirm</string>
+    <string name="update_button">Update</string>
+    <string name="delete_button">Delete</string>
+
 </resources>
